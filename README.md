@@ -1,4 +1,4 @@
-:Project Description: Companies Review Scraping with SerpApi
+# Description: Companies Review Scraping with SerpApi
 
 Objective: Given a list of company names, scrape reviews from Yelp and Google. 
 
