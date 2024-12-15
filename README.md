@@ -1,10 +1,10 @@
 # Description: Companies Review Scraping with SerpApi
 
-Objective: Given a list of company names, scrape reviews from Yelp and Google. 
+## Objective: Given a list of company names, scrape reviews from Yelp and Google. 
 
-Overview: This project focuses on using SerpAPI and utilize 7 searches to per company to append into a dataframe all reviews coming in. 
+## Overview: This project focuses on using SerpAPI and utilize 7 searches to per company to append into a dataframe all reviews coming in. 
 
-Key Steps:
+## Key Steps:
 
 1.Data Frame Creation:
 
